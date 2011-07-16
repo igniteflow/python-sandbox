@@ -1,4 +1,3 @@
-# pip install pydelicious
 from pydelicious import DeliciousAPI
 from getpass import getpass
 
